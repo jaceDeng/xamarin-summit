@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1XamarinSummit", "Demo1XamarinSummit\Demo1XamarinSummit.csproj", "{A05AD855-1226-4D4D-9EC2-B623190FE9F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignaturePad.Droid", "SignaturePad.Droid\SignaturePad.Droid.csproj", "{E89724CA-1535-4EBD-816B-6C9810A8F0D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05AD855-1226-4D4D-9EC2-B623190FE9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05AD855-1226-4D4D-9EC2-B623190FE9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05AD855-1226-4D4D-9EC2-B623190FE9F9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A05AD855-1226-4D4D-9EC2-B623190FE9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05AD855-1226-4D4D-9EC2-B623190FE9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05AD855-1226-4D4D-9EC2-B623190FE9F9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E89724CA-1535-4EBD-816B-6C9810A8F0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89724CA-1535-4EBD-816B-6C9810A8F0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89724CA-1535-4EBD-816B-6C9810A8F0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89724CA-1535-4EBD-816B-6C9810A8F0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14C434F3-6703-4471-816C-74E7B4F56C62}
+	EndGlobalSection
+EndGlobal
